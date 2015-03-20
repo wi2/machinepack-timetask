@@ -9,7 +9,7 @@
 Communicate with the Timetask API to get times, projects, etc.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-timetask.svg)](http://badge.fury.io/js/machinepack-timetask) [![Build Status](https://travis-ci.org/wi2/machinepack-timetask.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-timetask)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-timetask.svg)](http://badge.fury.io/js/machinepack-timetask) [![Build Status](https://travis-ci.org/wi2/machinepack-timetask.png?branch=master)](https://travis-ci.org/wi2/machinepack-timetask)
 
 ```sh
 $ npm install machinepack-timetask
