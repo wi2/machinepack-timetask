@@ -1,0 +1,60 @@
+{
+  "machine": "get",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {
+        "account": "",
+        "token": "",
+        "model": ""
+      },
+      "outcome": "success"
+    },
+    {
+      "todo": true,
+      "using": {
+        "account": "",
+        "token": "",
+        "model": "",
+        "params": ""
+      },
+      "outcome": "success"
+    },
+    {
+      "todo": true,
+      "using": {
+        "account": "",
+        "token": "",
+        "model": "",
+        "id": ""
+      },
+      "outcome": "success"
+    },
+    {
+      "using": {
+        "account": "",
+        "token": "",
+        "model": ""
+      },
+      "outcome": "error"
+    },
+    {
+      "using": {
+        "account": "",
+        "token": "",
+        "model": "",
+        "params": ""
+      },
+      "outcome": "error"
+    },
+    {
+      "using": {
+        "account": "",
+        "token": "",
+        "model": "",
+        "id": ""
+      },
+      "outcome": "error"
+    }
+  ]
+}

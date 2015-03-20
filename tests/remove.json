@@ -1,0 +1,22 @@
+{
+  "machine": "remove",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {
+        "account": "",
+        "token": "",
+        "model": ""
+      },
+      "outcome": "success"
+    },
+    {
+      "using": {
+        "account": "",
+        "token": "",
+        "model": ""
+      },
+      "outcome": "error"
+    }
+  ]
+}
