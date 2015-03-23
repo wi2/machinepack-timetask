@@ -4,29 +4,55 @@
     {
       "todo": true,
       "using": {
-        "account": "",
-        "token": "",
-        "model": ""
+        "account": "account_name",
+        "token": "your_token",
+        "model": "project"
       },
       "outcome": "success"
     },
     {
       "todo": true,
       "using": {
-        "account": "",
-        "token": "",
-        "model": "",
-        "params": ""
+        "account": "account_name",
+        "token": "your_token",
+        "model": "project",
+        "params": {
+          "search": "atelier"
+        }
       },
       "outcome": "success"
     },
     {
       "todo": true,
       "using": {
-        "account": "",
-        "token": "",
-        "model": "",
-        "id": ""
+        "account": "account_name",
+        "token": "your_token",
+        "model": "project",
+        "params": {
+          "limit": 5
+        }
+      },
+      "outcome": "success"
+    },
+    {
+      "todo": true,
+      "using": {
+        "account": "account_name",
+        "token": "your_token",
+        "model": "project",
+        "params": {
+          "active": true
+        }
+      },
+      "outcome": "success"
+    },
+    {
+      "todo": true,
+      "using": {
+        "account": "account_name",
+        "token": "your_token",
+        "model": "project",
+        "id": "125031"
       },
       "outcome": "success"
     },
