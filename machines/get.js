@@ -27,7 +27,7 @@ module.exports = {
       required: false
     },
     params: {
-      example: {search: 'atelier'},
+      typeclass: "dictionary",
       description: 'params object for filtering',
       required: false
     }
